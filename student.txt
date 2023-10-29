@@ -2,4 +2,4 @@ Student name: Luciano Mollen
 Student number: 693538
 Student class: HAINFVT1A
 GitHub Repository: URL github
-Github Pages URL: github pages URL
+Github Pages URL: https://github.com/Luciano010/Website/blob/main/index.html
